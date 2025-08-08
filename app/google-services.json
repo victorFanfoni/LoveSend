@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12410039935",
+    "project_id": "lovesend-2663b",
+    "storage_bucket": "lovesend-2663b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12410039935:android:315234a6c21f3e85e7194a",
+        "android_client_info": {
+          "package_name": "com.tupa.lovesend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA4hH05ZCVQwc3i9HLHlsBeb6uXb3SpiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
